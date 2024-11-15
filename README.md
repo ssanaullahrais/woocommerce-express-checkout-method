@@ -1,4 +1,4 @@
-# WooCommerce Express Checkout Functions
+# Woopayment Express Checkout Buttons Integration on Checkout Page
 
 Custom functions to add Apple Pay and Google Pay express checkout options to WooCommerce checkout page.
 
